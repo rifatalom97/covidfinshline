@@ -1,0 +1,8 @@
+[02-Feb-2021 02:19:29 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/inf1nart/covidfinishline.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home3/inf1nart/covidfinishline.com/wp-content/plugins/hello.php on line 69
+[02-Feb-2021 02:19:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home3/inf1nart/covidfinishline.com/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home3/inf1nart/covidfinishline.com/wp-content/plugins/hello.php on line 69
